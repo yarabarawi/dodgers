@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aolIn+XVN6qxTD0Znb9dhdTxGRUxV2Ru+uvITHzP2XwFX0//5UT32qeo6YsLpPOjRHuCWeexWyyT/v9AUsD9mA==",
+  "success": true,
+  "projectFilePath": "C:\\github\\Raylib\\dodgers\\dodgers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yara.mustafa\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\yara.mustafa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
